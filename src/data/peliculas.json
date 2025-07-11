@@ -1,0 +1,22 @@
+[
+  { "id": 21, "titulo": "Batman: El Caballero de la Noche", "descripcion": "Batman enfrenta al Joker en una batalla por Gotham.", "genero": "Acción", "poster": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg" },
+  { "id": 22, "titulo": "Back to the Future", "descripcion": "Un viaje en el tiempo cambia el pasado y el futuro.", "genero": "Ciencia Ficción", "poster": "https://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg" },
+  { "id": 23, "titulo": "Blade Runner 2049", "descripcion": "Un cazador de replicantes descubre un secreto oscuro.", "genero": "Ciencia Ficción", "poster": "https://image.tmdb.org/t/p/original/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg" },
+  { "id": 24, "titulo": "Bohemian Rhapsody", "descripcion": "La historia de Freddie Mercury y Queen.", "genero": "Musical", "poster": "https://image.tmdb.org/t/p/original/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg" },
+  { "id": 25, "titulo": "Pulp Fiction", "descripcion": "Historias entrelazadas de crimen y redención.", "genero": "Crimen", "poster": "https://image.tmdb.org/t/p/original/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg" },
+  { "id": 26, "titulo": "Piratas del Caribe: La Maldición del Perla Negra", "descripcion": "Un pirata busca venganza y tesoros.", "genero": "Aventura", "poster": "https://m.media-amazon.com/images/I/81KOaTWSHQL._UF894,1000_QL80_.jpg" },
+  { "id": 27, "titulo": "Psycho", "descripcion": "Un motel escondido y un asesino perturbado.", "genero": "Terror", "poster": "https://prod5.agileticketing.net/images/user/gic_4036/psycho-original-theatrical-cut-slashes-its-way-back-to-cinemas.jpg" },
+  { "id": 28, "titulo": "Spiderman: No Way Home", "descripcion": "Multiversos colisionan en el mundo de Spiderman.", "genero": "Superhéroes", "poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg" },
+  { "id": 29, "titulo": "Star Wars: El Imperio Contraataca", "descripcion": "La rebelión lucha contra el Imperio Galáctico.", "genero": "Ciencia Ficción", "poster": "https://image.tmdb.org/t/p/original/7BuH8itoSrLExs2YZSsM01Qk2no.jpg" },
+  { "id": 30, "titulo": "Superbad", "descripcion": "Dos amigos viven una noche de caos antes de graduarse.", "genero": "Comedia", "poster": "https://m.media-amazon.com/images/I/51HShnByGEL._UF894,1000_QL80_.jpg" },
+  { "id": 31, "titulo": "The Godfather", "descripcion": "El ascenso de una familia mafiosa en Nueva York.", "genero": "Crimen", "poster": "https://image.tmdb.org/t/p/original/eEslKSwcqmiNS6va24Pbxf2UKmJ.jpg" },
+  { "id": 32, "titulo": "The Dark Knight", "descripcion": "Batman enfrenta al caos del Joker.", "genero": "Acción", "poster": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg" },
+  { "id": 33, "titulo": "The Shawshank Redemption", "descripcion": "Un hombre inocente busca libertad en prisión.", "genero": "Drama", "poster": "https://image.tmdb.org/t/p/original/hBcY0fE9pfXzvVaY4GKarweriG2.jpg" },
+  { "id": 34, "titulo": "The Social Network", "descripcion": "La creación de Facebook y sus conflictos legales.", "genero": "Drama", "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Social_Network_film_poster.png" },
+  { "id": 35, "titulo": "The Grand Budapest Hotel", "descripcion": "Un hotel extravagante y una trama de misterio.", "genero": "Comedia", "poster": "https://image.tmdb.org/t/p/original/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg" },
+  { "id": 36, "titulo": "Jurassic Park", "descripcion": "Dinosaurios revividos causan caos en una isla.", "genero": "Aventura", "poster": "https://image.tmdb.org/t/p/original/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg" },
+  { "id": 37, "titulo": "John Wick", "descripcion": "Un exasesino busca venganza por la muerte de su perro.", "genero": "Acción", "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg" },
+  { "id": 38, "titulo": "Kill Bill", "descripcion": "Una asesina busca venganza contra su antiguo equipo.", "genero": "Acción", "poster": "https://image.tmdb.org/t/p/original/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg" },
+  { "id": 39, "titulo": "Mad Max: Fury Road", "descripcion": "Persecuciones en un mundo postapocalíptico.", "genero": "Acción", "poster": "https://image.tmdb.org/t/p/original/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg" },
+  { "id": 40, "titulo": "Moonlight", "descripcion": "Un joven afroamericano descubre su identidad.", "genero": "Drama", "poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_.jpg" }
+]
