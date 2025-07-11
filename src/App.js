@@ -13,7 +13,7 @@ function App() {
 
   // Efecto para obtener todas las películas al montar el componente
   useEffect(() => {
-    fetch('/api/peliculas')
+    fetch('https://recomendaciones-backend.onrender.com')
       .then(res => res.json())
       .then(data => {
         setPeliculas(data);
@@ -38,7 +38,7 @@ function App() {
   // Función para búsqueda por descripción usando IA (backend)
   const handleBuscarPorDescripcion = async () => {
     try {
-      const res = await fetch('/api/recomendaciones', {
+      const res = await fetch('https://recomendaciones-backend.onrender.com/api/recomendaciones', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
